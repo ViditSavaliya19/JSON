@@ -1,0 +1,448 @@
+[
+    {
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "Motivation"
+    },
+    {
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr.",
+      "category": "Friendship"
+    },
+    {
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "category": "Perseverance"
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "Success"
+    },
+    {
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "Inspiration"
+    },
+    {
+      "quote": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "category": "Opportunity"
+    },
+    {
+      "quote": "Whether you think you can or you think you can’t, you’re right.",
+      "author": "Henry Ford",
+      "category": "Mindset"
+    },
+    {
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "category": "Life"
+    },
+    {
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "category": "Mindfulness"
+    },
+    {
+      "quote": "It is our choices that show what we truly are, far more than our abilities.",
+      "author": "J.K. Rowling",
+      "category": "Choices"
+    },
+    {
+      "quote": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "category": "Happiness"
+    },
+    {
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "category": "Authenticity"
+    },
+    {
+      "quote": "The best way to predict your future is to create it.",
+      "author": "Peter Drucker",
+      "category": "Future"
+    },
+    {
+      "quote": "You have power over your mind – not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius",
+      "category": "Stoicism"
+    },
+    {
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "category": "Resilience"
+    },
+    {
+      "quote": "It is never too late to be what you might have been.",
+      "author": "George Eliot",
+      "category": "Potential"
+    },
+    {
+      "quote": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "category": "Action"
+    },
+    {
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "category": "Success"
+    },
+    {
+      "quote": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "Charles R. Swindoll",
+      "category": "Attitude"
+    },
+    {
+      "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas Edison",
+      "category": "Perseverance"
+    },
+    {
+      "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "category": "Life"
+    },
+    {
+      "quote": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "category": "Change"
+    },
+    {
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "Belief"
+    },
+    {
+      "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "category": "Potential"
+    },
+    {
+      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "category": "Goals"
+    },
+    {
+      "quote": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "category": "Perseverance"
+    },
+    {
+      "quote": "If you want to lift yourself up, lift up someone else.",
+      "author": "Booker T. Washington",
+      "category": "Service"
+    },
+    {
+      "quote": "Success is how high you bounce when you hit bottom.",
+      "author": "George S. Patton",
+      "category": "Resilience"
+    },
+    {
+      "quote": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "category": "Perseverance"
+    },
+    {
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke",
+      "category": "Courage"
+    },
+    {
+      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "category": "Strength"
+    },
+    {
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer",
+      "category": "Success"
+    },
+    {
+      "quote": "The journey of a thousand miles begins with one step.",
+      "author": "Lao Tzu",
+      "category": "Journey"
+    },
+    {
+      "quote": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "category": "Achievement"
+    },
+    {
+      "quote": "Everything you’ve ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "category": "Fear"
+    },
+    {
+      "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson",
+      "category": "Innovation"
+    },
+    {
+      "quote": "You must be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "category": "Change"
+    },
+    {
+      "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "author": "Oscar Wilde",
+      "category": "Life"
+    },
+    {
+      "quote": "If you tell the truth, you don't have to remember anything.",
+      "author": "Mark Twain",
+      "category": "Honesty"
+    },
+    {
+      "quote": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "category": "Mindset"
+    },
+    {
+      "quote": "Do one thing every day that scares you.",
+      "author": "Eleanor Roosevelt",
+      "category": "Courage"
+    },
+    {
+      "quote": "A journey of a thousand miles must begin with a single step.",
+      "author": "Lao Tzu",
+      "category": "Journey"
+    },
+    {
+      "quote": "Don’t let yesterday take up too much of today.",
+      "author": "Will Rogers",
+      "category": "Present"
+    },
+    {
+      "quote": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "category": "Goals"
+    },
+    {
+      "quote": "Dream big and dare to fail.",
+      "author": "Norman Vaughan",
+      "category": "Dreams"
+    },
+    {
+      "quote": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+      "author": "William Butler Yeats",
+      "category": "Action"
+    },
+    {
+      "quote": "Do what you love, and the money will follow.",
+      "author": "Marsha Sinetar",
+      "category": "Passion"
+    },
+    {
+      "quote": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "category": "Purpose"
+    },
+    {
+      "quote": "To succeed in life, you need two things: ignorance and confidence.",
+      "author": "Mark Twain",
+      "category": "Confidence"
+    },
+    {
+      "quote": "Our lives begin to end the day we become silent about things that matter.",
+      "author": "Martin Luther King Jr.",
+      "category": "Justice"
+    },
+    {
+      "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+      "author": "Steve Jobs",
+      "category": "Life"
+    },
+    {
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius",
+      "category": "Simplicity"
+    },
+    {
+      "quote": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "category": "Motivation"
+    },
+    {
+      "quote": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+      "author": "Joshua J. Marine",
+      "category": "Challenges"
+    },
+    {
+      "quote": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "category": "Opportunity"
+    },
+    {
+      "quote": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "category": "Action"
+    },
+    {
+      "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill",
+      "category": "Success"
+    },
+    {
+      "quote": "Good artists copy, great artists steal.",
+      "author": "Pablo Picasso",
+      "category": "Creativity"
+    },
+    {
+      "quote": "What we think, we become.",
+      "author": "Buddha",
+      "category": "Mindset"
+    },
+    {
+      "quote": "If you cannot do great things, do small things in a great way.",
+      "author": "Napoleon Hill",
+      "category": "Excellence"
+    },
+    {
+      "quote": "To be the best, you must be able to handle the worst.",
+      "author": "Wilson Kanadi",
+      "category": "Resilience"
+    },
+    {
+      "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+      "author": "Walt Whitman",
+      "category": "Optimism"
+    },
+    {
+      "quote": "The best way out is always through.",
+      "author": "Robert Frost",
+      "category": "Persistence"
+    },
+    {
+      "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+      "author": "Christian D. Larson",
+      "category": "Self-Belief"
+    },
+    {
+      "quote": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "category": "Perseverance"
+    },
+    {
+      "quote": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+      "author": "Jimmy Dean",
+      "category": "Adaptability"
+    },
+    {
+      "quote": "What you do speaks so loudly that I cannot hear what you say.",
+      "author": "Ralph Waldo Emerson",
+      "category": "Integrity"
+    },
+    {
+      "quote": "The only place where success comes before work is in the dictionary.",
+      "author": "Vidal Sassoon",
+      "category": "Work"
+    },
+    {
+      "quote": "Don't count the days, make the days count.",
+      "author": "Muhammad Ali",
+      "category": "Time"
+    },
+    {
+      "quote": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "category": "Happiness"
+    },
+    {
+      "quote": "It does not matter how many times you get knocked down, but how many times you get up.",
+      "author": "Vince Lombardi",
+      "category": "Resilience"
+    },
+    {
+      "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+      "author": "Albert Einstein",
+      "category": "Goals"
+    },
+    {
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "category": "Wisdom"
+    },
+    {
+      "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+      "author": "Eleanor Roosevelt",
+      "category": "Ideas"
+    },
+    {
+      "quote": "It’s not whether you get knocked down, it’s whether you get up.",
+      "author": "Vince Lombardi",
+      "category": "Perseverance"
+    },
+    {
+      "quote": "The best preparation for tomorrow is doing your best today.",
+      "author": "H. Jackson Brown Jr.",
+      "category": "Preparation"
+    },
+    {
+      "quote": "We become what we think about.",
+      "author": "Earl Nightingale",
+      "category": "Mindset"
+    },
+    {
+      "quote": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "category": "Journey"
+    },
+    {
+      "quote": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "category": "Dreams"
+    },
+    {
+      "quote": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey",
+      "category": "Wisdom"
+    },
+    {
+      "quote": "Everything you can imagine is real.",
+      "author": "Pablo Picasso",
+      "category": "Creativity"
+    },
+    {
+      "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+      "author": "Roy T. Bennett",
+      "category": "Impact"
+    },
+    {
+      "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "author": "Henry Ford",
+      "category": "Failure"
+    },
+    {
+      "quote": "You only live once, but if you do it right, once is enough.",
+      "author": "Mae West",
+      "category": "Life"
+    },
+    {
+      "quote": "The best way to find yourself is to lose yourself in the service of others.",
+      "author": "Mahatma Gandhi",
+      "category": "Service"
+    },
+    {
+      "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+      "author": "Robert Louis Stevenson",
+      "category": "Patience"
+    },
+    {
+      "quote": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe",
+      "category": "Action"
+    },
+    {
+      "quote": "Success is not in what you have, but who you are.",
+      "author": "Bo Bennett",
+      "category": "Success"
+    },
+    {
+      "quote": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay",
+      "category": "Innovation"
+    }
+  ]
+  
